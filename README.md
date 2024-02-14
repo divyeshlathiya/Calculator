@@ -1,1 +1,1 @@
-This is my simple termial base  Calculator. 
+This is my simple terminal base  Calculator. 
